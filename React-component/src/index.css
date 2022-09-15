@@ -1,0 +1,12 @@
+.select_class{
+    padding: 10px;
+    width: 300px;
+    left:35%;
+    margin-top:5%;
+    position: relative;
+}
+.color_background{
+    background-color: aqua;
+    height:auto;
+    width:auto;
+}
